@@ -7,9 +7,10 @@
 
 ## Ideas
 
-### Alarm App 
 
-Classic alarm app with options to add, modify and delete alarm events. Allow users to set preferences for alarm tone, snooze and repeat duration.
+### Alarm App
+
+Classic alarm app with options to add, modify and delete alarm events. Allow us$
 
 ### Battery status monitor
 
